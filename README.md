@@ -22,35 +22,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Pushpay](https://pushpay.com/)**  
-  Enterprise-grade giving and engagement platform popular with mid-to-large and multi-site churches, offering strong recurring giving, donor tools, and deep ChMS integrations.
-
-- **[Tithe.ly](https://get.tithe.ly/)**  
-  Widely used church giving platform with free and paid tiers, mobile app, text-to-give, recurring donations, and optional church management features.
-
-- **[Subsplash Giving](https://www.subsplash.com/)**  
-  Giving solution integrated into the broader Subsplash church app and media platform, popular with churches that want a unified mobile experience.
-
-- **[Givelify](https://www.givelify.com/)**  
-  Mobile-first giving platform with a free entry point, simple donor experience, and focus on quick adoption for churches of various sizes.
-
-- **[Planning Center Giving](https://www.planningcenter.com/giving)**  
-  Cost-effective giving module within the Planning Center suite, known for competitive transaction fees (including free ACH on some plans) and tight integration with other PCO products.
-
-- **[Realm eGiving (ACS Technologies)](https://www.acst.com/)**  
-  Giving and donor management tools within the Realm church management ecosystem, aimed at churches already using ACS/Realm.
-
-- **[EasyTithe](https://www.easytithe.com/)**  
-  Online and mobile giving platform designed specifically for churches, with recurring gifts, text giving, and reporting features.
-
-- **[Vanco Give](https://www.vancopayments.com/)**  
-  Long-standing church and nonprofit payment processor offering online, mobile, text, and kiosk giving options with various pricing models.
-
-- **[SecureGive](https://www.securegive.com/)**  
-  Church giving platform focused on secure online, mobile, and text donations along with donor management tools.
-
-- **[Kindrid](https://www.kindrid.com/)**  
-  Modern giving and stewardship platform aimed at churches seeking clean donor experiences and engagement features.
+| Platform | Description | Pricing (Starting Tier & Fees) | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Pushpay](https://pushpay.com/)** | Enterprise-grade giving and engagement platform popular with mid-to-large and multi-site churches, offering recurring giving, donor tools, and ChMS integrations. | Starts at ~$150–$199/mo (custom quote based on church size) + ~2.5%–3.0% + $0.30 per card txn | No free tier or standard free trial (Live product demos only; 12-month no-cost grant available exclusively for qualifying pre-launch church plants) |
+| **[Tithe.ly](https://get.tithe.ly/)** | Widely used church giving platform with mobile app, text-to-give, recurring donations, and optional church management features. | $0/mo base subscription + 2.9% + $0.30 per card txn (3.5% + $0.30 Amex, 1% + $0.30 ACH) | Free forever plan ($0/mo base giving platform with unlimited givers/volume, standard transaction fees apply; optional add-on products require paid subscriptions) |
+| **[Subsplash Giving](https://www.subsplash.com/)** | Giving solution integrated into the broader Subsplash church app and media platform, popular with churches wanting a unified mobile experience. | $0/mo base subscription (Giving-Only) + 2.99% + $0.30 per card txn (2.30% + $0.30 on Exclusive Partnership, 1.0% ACH) | Free forever plan for Giving-Only ($0/mo platform fee with unlimited donations, standard transaction fees apply; full Subsplash One suite offers demo only with no free trial) |
+| **[Givelify](https://www.givelify.com/)** | Mobile-first giving platform with a simple donor experience and focus on quick adoption for churches of various sizes. | $0/mo base subscription + 2.9% + $0.30 per Visa/Mastercard/Discover txn (3.5% + $0.30 Amex) | Free forever plan ($0/mo platform fee with no monthly contracts or donor limits; minimum donation amount is $0.50 per gift, standard transaction fees apply) |
+| **[Planning Center Giving](https://www.planningcenter.com/giving)** | Modular giving system within the Planning Center suite with donor tracking, batch entry, and low ACH rates. | $0/mo (up to 10 donations/mo) or $15/mo (up to 75 donations/mo) + 2.15% + $0.30 per card txn ($0.30 flat for ACH) | Free forever tier with a limit of up to 10 donations/month (includes all giving features; auto-scales to $15/mo for >10 donations; 12-month fee waiver available for contract buyouts) |
+| **[Realm eGiving (ACS Technologies)](https://www.acst.com/)** | Giving and donor management tools within the Realm church management ecosystem, aimed at churches using ACS/Realm. | Starts at ~$30–$50/mo (scaled by weekly attendance/tier) + ~2.65%–2.9% + $0.30 per card txn | 30-day free trial with full evaluation access and demo features upon registration; no ongoing free-forever tier |
+| **[EasyTithe](https://www.easytithe.com/)** | Online and mobile giving platform designed for churches, with recurring gifts, text giving, and reporting features. | $0/mo (Church Plant tier; 3.0% + $0.39/card) or $29/mo (Mid-Size; 2.6% + $0.39/card) + $10/mo security fee & $10/mo processing min | 30-day free trial with full access; ongoing $0/mo Church Plant plan available (subject to $10/mo security fee and $10/mo minimum processing fees) |
+| **[Vanco Give](https://www.vancopayments.com/)** | Church and nonprofit payment processor offering online, mobile, text, and kiosk giving options. | $0/mo ("Grow" plan; 2.90% + $0.45/card) or $54/mo ("Thrive" plan; 2.65% + $0.39/card) | Free forever entry plan ("Grow" tier has $0/mo subscription fee with unlimited donation volume, transaction fees apply; live guided demos available) |
+| **[SecureGive](https://www.securegive.com/)** | Church giving platform focused on secure online, mobile, kiosk, and text donations along with donor management tools. | Starts at $149/mo (Basic plan) + 1.75%–2.5% + $0.30 per card txn ($1.50 flat per ACH txn) | No free tier or self-serve free trial (Live product demos available upon request; requires paid monthly subscription starting at $149/mo) |
+| **[Kindrid](https://www.kindrid.com/)** | Modern giving and stewardship platform aimed at churches seeking clean donor experiences and engagement features. | $0/mo base plan (pay-as-you-go) or $19/mo (up to 100 givers; 2.6% + $0.35/card, 0.75% + $0.30 ACH) | Free forever plan available ($0/mo base tier with standard transaction processing fees; no time-limited free trial for paid subscription tiers) |
 
 ## Open-Source GitHub Projects
 
